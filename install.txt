@@ -1,1 +1,3 @@
 pip install flask Flask-PyMongo flask-cors
+
+npm i react-router-dom@6 bootswatch 
